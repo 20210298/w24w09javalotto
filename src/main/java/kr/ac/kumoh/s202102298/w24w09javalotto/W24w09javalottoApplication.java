@@ -9,5 +9,4 @@ public class W24w09javalottoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(W24w09javalottoApplication.class, args);
 	}
-
 }
